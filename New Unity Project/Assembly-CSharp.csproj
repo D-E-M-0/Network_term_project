@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\GameManager.cs" />
+     <Compile Include="Assets\Script\MainMenu.cs" />
+     <Compile Include="Assets\Script\Registration.cs" />
      <Compile Include="Assets\StatusLoad.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -262,32 +264,32 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="SimpleJson">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SimpleJson.dll</HintPath>
+ </Reference>
+ <Reference Include="SocketIO">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SocketIO.dll</HintPath>
+ </Reference>
+ <Reference Include="SuperSocket.ClientEngine.Common">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Common.dll</HintPath>
+ </Reference>
+ <Reference Include="SuperSocket.ClientEngine.Core">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="SuperSocket.ClientEngine.Protocol">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Protocol.dll</HintPath>
+ </Reference>
+ <Reference Include="SuperSocket.ClientEngine.Proxy">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Proxy.dll</HintPath>
+ </Reference>
+ <Reference Include="WebSocket4Net">
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/WebSocket4Net.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/xenot/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/xenot/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="SuperSocket.ClientEngine.Core">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Core.dll</HintPath>
- </Reference>
- <Reference Include="SuperSocket.ClientEngine.Proxy">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Proxy.dll</HintPath>
- </Reference>
- <Reference Include="SocketIO">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SocketIO.dll</HintPath>
- </Reference>
- <Reference Include="SuperSocket.ClientEngine.Protocol">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Protocol.dll</HintPath>
- </Reference>
- <Reference Include="SuperSocket.ClientEngine.Common">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SuperSocket.ClientEngine.Common.dll</HintPath>
- </Reference>
- <Reference Include="SimpleJson">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/SimpleJson.dll</HintPath>
- </Reference>
- <Reference Include="WebSocket4Net">
- <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/New Unity Project/Assets/UnitySocketIO/WebSocket4Net.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
