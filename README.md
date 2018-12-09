@@ -1,4 +1,4 @@
 # Network_Term_Project 
 #### Repo for network term project 2018 fall
-#### php, json - SERVER
+#### PhotonNetwork, json - SERVER
 #### unity - Client
