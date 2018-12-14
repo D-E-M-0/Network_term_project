@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C10763AD-49A7-5B07-BDC6-33DB52F3A31D}</ProjectGuid>
+    <ProjectGuid>{B08962BF-7E60-3CB9-F885-4B8DF62D8917}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PhotonUnityNetworking.Utilities</AssemblyName>
@@ -293,13 +293,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/Code/Editor/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/Code/Editor/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/xenot/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -346,9 +346,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{134BF82C-BCD7-3D5C-BDB1-7C508BAA053D}</Project>      <Name>PhotonRealtime</Name>    </ProjectReference>
+      <Project>{8E35F691-0085-2BD3-1A73-D333D1B8D731}</Project>      <Name>PhotonRealtime</Name>    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{85753748-68BC-87BA-AEEB-C868F3EB8CAA}</Project>      <Name>PhotonUnityNetworking</Name>    </ProjectReference>
+      <Project>{5E3C6ECC-ED60-61B0-C84B-D4E8D9265954}</Project>      <Name>PhotonUnityNetworking</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

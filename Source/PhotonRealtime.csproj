@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{134BF82C-BCD7-3D5C-BDB1-7C508BAA053D}</ProjectGuid>
+    <ProjectGuid>{8E35F691-0085-2BD3-1A73-D333D1B8D731}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PhotonRealtime</AssemblyName>
@@ -297,13 +297,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/Code/Editor/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/Code/Editor/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/xenot/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -350,7 +350,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PhotonWebSocket.csproj">
-      <Project>{90EE63A1-69F5-81D8-B8D3-D4F64CAC269F}</Project>      <Name>PhotonWebSocket</Name>    </ProjectReference>
+      <Project>{2F030C5D-B409-5469-A917-FA0E3EDCF06E}</Project>      <Name>PhotonWebSocket</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

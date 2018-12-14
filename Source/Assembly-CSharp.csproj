@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E51ABAA1-E0FC-457D-A47F-A1C184E7CFB4}</ProjectGuid>
+    <ProjectGuid>{9A11237F-ED63-616E-DBDE-C39399B84FC5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,16 +64,16 @@
      <None Include="Assets\PhotonLibs\Photon3Unity3D.xml" />
      <None Include="Assets\PhotonLibs\release_history.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -274,10 +274,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/xenot/Documents/카카오톡 받은 파일/Network/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>C:/Users/xenot/Documents/GitHub/Network_term_project/Source/Assets/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/xenot/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
@@ -315,15 +315,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{C10763AD-49A7-5B07-BDC6-33DB52F3A31D}</Project>      <Name>PhotonUnityNetworking.Utilities</Name>    </ProjectReference>
+      <Project>{B08962BF-7E60-3CB9-F885-4B8DF62D8917}</Project>      <Name>PhotonUnityNetworking.Utilities</Name>    </ProjectReference>
     <ProjectReference Include="PhotonWebSocket.csproj">
-      <Project>{90EE63A1-69F5-81D8-B8D3-D4F64CAC269F}</Project>      <Name>PhotonWebSocket</Name>    </ProjectReference>
+      <Project>{2F030C5D-B409-5469-A917-FA0E3EDCF06E}</Project>      <Name>PhotonWebSocket</Name>    </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{134BF82C-BCD7-3D5C-BDB1-7C508BAA053D}</Project>      <Name>PhotonRealtime</Name>    </ProjectReference>
+      <Project>{8E35F691-0085-2BD3-1A73-D333D1B8D731}</Project>      <Name>PhotonRealtime</Name>    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{85753748-68BC-87BA-AEEB-C868F3EB8CAA}</Project>      <Name>PhotonUnityNetworking</Name>    </ProjectReference>
+      <Project>{5E3C6ECC-ED60-61B0-C84B-D4E8D9265954}</Project>      <Name>PhotonUnityNetworking</Name>    </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{C2F0D583-4760-C0AA-F5F0-73DBEB177420}</Project>      <Name>PhotonUnityNetworking.Editor</Name>    </ProjectReference>
+      <Project>{C666E7A5-16D8-2F5F-50EB-9F6F181141AA}</Project>      <Name>PhotonUnityNetworking.Editor</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

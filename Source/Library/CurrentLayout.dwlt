@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 72
+  controlID: 90
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 312
     height: 762
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 86
+  controlID: 91
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 87
+  controlID: 92
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,8 +306,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 281
-    y: 635
+    x: -32000
+    y: -31460
     width: 754
     height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -323,20 +323,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/ADCompany/Scripts/Lobby
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/ADCompany/Scripts/Lobby
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\xenot\Desktop\Source
+  m_LastProjectPath: C:\Users\xenot\Documents\GitHub\Network_term_project\Source
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e8090000
-    m_LastClickedID: 2536
-    m_ExpandedIDs: 00000000e80900001e0a0000c00a0000d40b00002a0d0000e8300000ea30000000ca9a3b
+    scrollPos: {x: 0, y: 123}
+    m_SelectedIDs: 520a0000
+    m_LastClickedID: 2642
+    m_ExpandedIDs: 00000000e80900001e0a0000880a0000c00a0000d40b0000080c0000060d00002a0d0000e8300000ea30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e80900001e0a0000c00a0000d40b00002a0d0000e8300000ea300000
+    m_ExpandedIDs: 00000000e80900001e0a0000880a0000c00a0000d40b0000080c0000060d00002a0d0000e8300000ea300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,8 +439,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1039
-    y: 144
+    x: -31242
+    y: -31951
     width: 310
     height: 741
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -473,8 +473,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 281
-    y: 144
+    x: -32000
+    y: -31951
     width: 222
     height: 470
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -482,7 +482,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 78f4ffffe8f4ffff48f6ffff6ef6ffffc4fbffff00000000d40d0000b20f00000e100000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -526,8 +526,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 507
-    y: 144
+    x: -31774
+    y: -31951
     width: 528
     height: 470
   m_PersistentViewDataDictionary: {fileID: 0}
